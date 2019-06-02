@@ -1,0 +1,39 @@
+body{
+    font-family: 'Crimson Text', serif;
+    background-color: bisque;
+}
+#header{
+    background-color: aqua;
+    margin: 5px;
+}
+#instructions{
+    background-color: red;
+    margin: 5px;
+}
+#random-number{
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
+#wins-losses{
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
+#score-box{
+    background-color: red;
+    margin: 5px;
+    padding: 25px;
+}
+#picture-1{
+    margin: 5px;
+}
+#picture-2{
+    margin: 5px;
+}
+#picture-3{
+    margin: 5px;
+}
+#picture-4{
+    margin: 5px;
+}
