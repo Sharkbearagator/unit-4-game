@@ -58,7 +58,7 @@ $("#picture-4").on("click",function(){
     if(crystalValue === randomNumber){
         wins++;
         $("#wins").html(wins);
-        alert("You Wins!")
+        alert("You Win!")
         reset()
     }
     if(crystalValue > randomNumber){

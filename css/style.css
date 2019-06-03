@@ -1,6 +1,5 @@
 body{
     font-family: 'Crimson Text', serif;
-    background-color: bisque;
 }
 #header{
     background-color: aqua;
@@ -13,7 +12,7 @@ body{
 #random-number{
     background-color: aqua;
     margin: 5px;
-    padding: 20px;
+    padding: 45px;
 }
 #wins{
     background-color: aqua;
