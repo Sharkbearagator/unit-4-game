@@ -15,7 +15,22 @@ body{
     margin: 5px;
     padding: 20px;
 }
-#wins-losses{
+#wins{
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
+#win-box{
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
+#losses{
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
+#lose-box{
     background-color: aqua;
     margin: 5px;
     padding: 20px;
